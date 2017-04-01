@@ -1,0 +1,19 @@
+body {
+    background-color: Cornsilk;
+	}
+	
+h1 {
+     font-family: arial;
+     color:teal; 
+	 text-align:center;
+   }
+   
+h2 {
+     font-family: arial;
+     color:teal; 
+   }
+ 
+a:hover {
+    color: red;
+}
+
